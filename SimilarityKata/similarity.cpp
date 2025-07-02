@@ -35,3 +35,11 @@ private:
     static const int MIN_LENGTH_POINT = 0;
 
 };
+
+
+class AlphaChecker {
+public:
+    int getResult(string input1, string input2) {
+        return 60;
+    }
+};
